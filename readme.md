@@ -12,11 +12,6 @@
 演示地址：[https://teeth.gitapp.cn](https://teeth.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/java_teeth
-
-
 ## 主要功能
 
 - 服务管理：管理系统可以录入、修改和查询服务的基本信息，如名称、价格、适用人群、备注等。
